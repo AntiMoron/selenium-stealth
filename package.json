@@ -1,9 +1,9 @@
 {
   "name": "selenium-stealth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Evade selenium detection from websites",
   "main": "selenium_stealth/index.js",
-  "repository": "https://github.com/diprajpatra/selenium-stealth.git",
+  "repository": "https://github.com/praise2112/selenium-stealth",
   "license": "MIT",
   "scripts": {
     "test": "node ./tests/chrome_headless_with_stealth_test.js"
@@ -19,6 +19,6 @@
     "email": "oketola.praise@gmail.com"
   },
   "dependencies": {
-    "selenium-webdriver": "^4.0.0-beta.4"
+    "selenium-webdriver": "^4.0.0"
   }
 }
